@@ -15,28 +15,19 @@ Construyo sistemas web y APIs con **Laravel** y **Spring Boot**, y diseño bases
 - 🏆 **3er lugar** en el hackatón del **Tecnológico de Salina Cruz (ITSAL)** con un sistema para gestionar la recolección de basura.
 - 📜 Certificaciones de **Huawei ICT Academy**: *Artificial Intelligence Technology and Applications* y *5G Network Architecture and Key Technologies*.
 
-### Tecnologías
+### 💻 Tecnologías
 
 **Backend**<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring" alt="PHP, Laravel, Java, Spring Boot" />
 
 **Bases de datos**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
 
 **Frontend**<br>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Angular, JavaScript, HTML, CSS" />
 
 **Herramientas**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,maven,vscode,bash" alt="Docker, Git, Maven, Visual Studio Code, Git Bash" />
 
 ### Proyectos destacados
 
