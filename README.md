@@ -18,16 +18,16 @@ Construyo sistemas web y APIs con **Laravel** y **Spring Boot**, y diseño bases
 ### Tecnologías
 
 **Backend**<br>
-<picture><img src="https://skillicons.dev/icons?i=php,laravel,java,spring" alt="PHP, Laravel, Java, Spring Boot" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,java,spring"><img src="https://skillicons.dev/icons?i=php,laravel,java,spring" alt="PHP, Laravel, Java, Spring Boot" /></picture>
 
 **Bases de datos**<br>
-<picture><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" /></picture>
 
 **Frontend**<br>
-<picture><img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Angular, JavaScript, HTML, CSS" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,js,html,css"><img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Angular, JavaScript, HTML, CSS" /></picture>
 
 **Herramientas**<br>
-<picture><img src="https://skillicons.dev/icons?i=docker,git,maven,vscode,bash" alt="Docker, Git, Maven, Visual Studio Code, Git Bash" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,maven,vscode,bash"><img src="https://skillicons.dev/icons?i=docker,git,maven,vscode,bash" alt="Docker, Git, Maven, Visual Studio Code, Git Bash" /></picture>
 
 ### Proyectos destacados
 
