@@ -18,16 +18,16 @@ Construyo sistemas web y APIs con **Laravel** y **Spring Boot**, y diseño bases
 ### Tecnologías
 
 **Backend**<br>
-<a><img src="https://skillicons.dev/icons?i=php,laravel,java,spring" alt="PHP, Laravel, Java, Spring Boot" /></a>
+<picture><img src="https://skillicons.dev/icons?i=php,laravel,java,spring" alt="PHP, Laravel, Java, Spring Boot" /></picture>
 
 **Bases de datos**<br>
-<a><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" /></a>
+<picture><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" /></picture>
 
 **Frontend**<br>
-<a><img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Angular, JavaScript, HTML, CSS" /></a>
+<picture><img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Angular, JavaScript, HTML, CSS" /></picture>
 
 **Herramientas**<br>
-<a><img src="https://skillicons.dev/icons?i=docker,git,maven,vscode,bash" alt="Docker, Git, Maven, Visual Studio Code, Git Bash" /></a>
+<picture><img src="https://skillicons.dev/icons?i=docker,git,maven,vscode,bash" alt="Docker, Git, Maven, Visual Studio Code, Git Bash" /></picture>
 
 ### Proyectos destacados
 
